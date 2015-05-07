@@ -1,0 +1,28 @@
+2015-05-07 06:05:39.064 ccontacts[3399:206096] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/troymiles/Library/Developer/CoreSimulator/Devices/C99EEB42-CF9D-4947-AE5C-95A402A784CB/data/Containers/Data/Application/7E3C1814-81A3-4F70-99F9-7B3B741F723F/Library/Cookies/Cookies.binarycookies
+2015-05-07 06:05:39.326 ccontacts[3399:206096] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-07 06:05:39.326 ccontacts[3399:206096] Multi-tasking -> Device: YES, App: YES
+2015-05-07 06:05:39.346 ccontacts[3399:206096] Unlimited access to network resources
+2015-05-07 06:05:39.360 ccontacts[3399:206096] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-07 06:05:40.074 ccontacts[3399:206096] Resetting plugins due to page load.
+2015-05-07 06:05:40.180 ccontacts[3399:206096] Finished load of: file:///Users/troymiles/Library/Developer/CoreSimulator/Devices/C99EEB42-CF9D-4947-AE5C-95A402A784CB/data/Containers/Bundle/Application/794D1FBE-1865-4796-BC2C-CFED01C841DE/ccontacts.app/www/index.html
+2015-05-07 06:07:02.188 ccontacts[3516:207150] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/troymiles/Library/Developer/CoreSimulator/Devices/C99EEB42-CF9D-4947-AE5C-95A402A784CB/data/Containers/Data/Application/C538AE1A-AA25-4AF5-862F-1085915742E5/Library/Cookies/Cookies.binarycookies
+2015-05-07 06:07:02.265 ccontacts[3516:207150] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-07 06:07:02.266 ccontacts[3516:207150] Multi-tasking -> Device: YES, App: YES
+2015-05-07 06:07:02.267 ccontacts[3516:207150] Unlimited access to network resources
+2015-05-07 06:07:02.269 ccontacts[3516:207150] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-07 06:07:02.358 ccontacts[3516:207150] Resetting plugins due to page load.
+2015-05-07 06:07:02.504 ccontacts[3516:207150] Finished load of: file:///Users/troymiles/Library/Developer/CoreSimulator/Devices/C99EEB42-CF9D-4947-AE5C-95A402A784CB/data/Containers/Bundle/Application/A6783718-A9D6-4B28-8BDE-44D253CDC181/ccontacts.app/www/index.html#/about
